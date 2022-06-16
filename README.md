@@ -1,4 +1,4 @@
-# Ella and Alexxy Shell
+# Celine Bowen
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
@@ -44,4 +44,3 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Ella](https://github.com/EllaLawrie) and [Alexxy](https://github.com/Lexxyla).
